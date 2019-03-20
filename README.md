@@ -5,4 +5,4 @@ Responsive website developed using JavaScript, HTML and CSS focusing on if state
 Assignment from online course The Web Developer Bootcamp to learn RGB color model through an intuitive and entertaining app.
 
 # Website 
-Link to Website 
+Link to Website https://raheltd.github.io/RGB-game/
